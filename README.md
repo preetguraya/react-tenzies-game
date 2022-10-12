@@ -1,4 +1,4 @@
-A game app built with React.js.
+# A game app built with React.js.
 
 It lets user roll the dice until all 10 dice are same.
 
