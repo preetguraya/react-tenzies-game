@@ -1,5 +1,7 @@
 # A game app built with React.js.
 
+### It is live at - https://gregarious-brigadeiros-815a9f.netlify.app/
+
 It lets user roll the dice until all 10 dice are same.
 
 After winning the game, it shows the number of rolls made by user.
