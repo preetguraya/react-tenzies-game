@@ -15,7 +15,7 @@ export default function App() {
 
   useEffect(() => {
     const winNumber = dice[0].number
-    if (dice.every(die => die.isHeld && die.number == winNumber)) {
+    if (dice.every(die => die.isHeld && die.number === winNumber)) {
       setTenzies(true)
       console.log("You won!")
     }
