@@ -1,6 +1,6 @@
 # A game app built with React.js.
 
-### It is live at - https://gregarious-brigadeiros-815a9f.netlify.app/
+### It is live at - https://gurpreetkaur-tenzies-game.netlify.app/
 
 It lets user roll the dice until all 10 dice are same.
 
