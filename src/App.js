@@ -25,7 +25,7 @@ export default function App() {
 
   function newDie() {
     return {
-      number: Math.floor(Math.random() * 7),
+      number: Math.floor(Math.random() * 6) + 1,
       isHeld: false
     }
   }

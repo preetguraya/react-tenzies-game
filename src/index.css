@@ -40,8 +40,34 @@ main {
   background-color: white;
 }
 
+.die1{
+  background-image: url('images/die1.jpg');
+  background-size: cover;
+}
+.die2{
+  background-image: url('images/die2.jpg');
+  background-size: cover;
+}
+.die3{
+  background-image: url('images/die3.jpg');
+  background-size: cover;
+}
+.die4{
+  background-image: url('images/die4.jpg');
+  background-size: cover;
+}
+.die5{
+  background-image: url('images/die5.jpg');
+  background-size: cover;
+}
+.die6{
+  background-image: url('images/die6.jpg');
+  background-size: cover;
+}
+
+
 .held {
-  background-color:#59E391;
+  border: 2px #13eb4c solid;
 }
 
 .die span {
